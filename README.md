@@ -32,7 +32,7 @@ The sentiment was increasingly negative from 2016 to 2020.
 
 
 ## Outline of Files
-- The ipynb files contain exploratory data analysis, CorEx topic modeling, and Vader sentiment analysis.
+- The ipynb files contain code to scrape Twitter user accounts wtih SNScrape, exploratory data analysis, an NLP pipeline, CorEx topic modeling, and Vader sentiment analysis.
 - The miscellaneous support file contains .py and .txt files for stop words.
 - The CSVs and pickled dataframes contained 2.5 million preprocessed headlines. The files were too large to upload to Github. I can provide them upon request.
 - The json file contains JS code to create a collapsible tree visualization.

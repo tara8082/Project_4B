@@ -28,11 +28,12 @@ The best tool to meet this project's goal is CorEx. The topics discovered using 
 7. Sports & Entertainment
 8. Coronavirus Pandemic
 
+The sentiment was increasingly negative from 2016 to 2020.
 
 
 ## Outline of Files
 - The ipynb files contain exploratory data analysis, CorEx topic modeling, and Vader sentiment analysis.
 - The miscellaneous support file contains .py and .txt files for stop words.
-- The CSVs and pickled dataframes contained preprocessed healdines were too large to uploag to Github. I can provide them upon request.
+- The CSVs and pickled dataframes contained 2.5 million preprocessed headlines. The files were too large to upload to Github. I can provide them upon request.
 - The json file contains JS code to create a collapsible tree visualization.
 - The pdf contains the final presentation.

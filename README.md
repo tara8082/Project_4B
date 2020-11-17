@@ -3,7 +3,7 @@ This project uses a Kaggle data and fits classification models that balances rec
 
 ## Data Source: 
 
-Data was scraped from Twitter user accounts of Reuters, AP, BBC World, Financial Times, NYTimes, CNN, Fox News, Daily Mail, ABC, NBC News, Wall Street Journal, Bloomberg, Forbes, Huffington Post, and Washington Post from 2016-2020.
+Data was scraped from Twitter user accounts of Reuters, AP, BBC World, Financial Times, NYTimes, CNN, Fox News, Daily Mail, ABC, NBC News, Wall Street Journal, Bloomberg, Forbes, Huffington Post, and Washington Post from 2016-2020. A total of 2.5 million headlines were scraped.
 
 ## Tools Used:
 

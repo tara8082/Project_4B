@@ -1,0 +1,285 @@
+{
+ "name": "Corpus",
+ "children": [
+  {
+   "name": "Domestic Government Affairs",
+   "children": [
+    {
+     "name": "donald"
+    },
+    {
+     "name": "president"
+    },
+    {
+     "name": "biden"
+    },
+    {
+     "name": "joe"
+    },
+    {
+     "name": "presidential"
+    },
+    {
+     "name": "democratic"
+    },
+    {
+     "name": "election"
+    },
+    {
+     "name": "donald"
+    },
+    {
+     "name": "vote"
+    },
+    {
+     "name": "campaign"
+    }
+   ]
+  },
+  {
+   "name": "Coronavirus",
+   "children": [
+    {
+     "name": "coronavirus"
+    },
+    {
+     "name": "covid"
+    },
+    {
+     "name": "test"
+    },
+    {
+     "name": "outbreak"
+    },
+    {
+     "name": "spread"
+    },
+    {
+     "name": "pandemic"
+    },
+    {
+     "name": "vaccine"
+    },
+    {
+     "name": "postitive"
+    },
+    {
+     "name": "hong"
+    },
+    {
+     "name": "kong"
+    }
+   ]
+  },
+  {
+   "name": "Police and Crime",
+   "children": [
+    {
+     "name": "police"
+    },
+    {
+     "name": "kill"
+    },
+    {
+     "name": "protest"
+    },
+    {
+     "name": "george"
+    },
+    {
+     "name": "floyd"
+    },
+    {
+     "name": "shoot"
+    },
+    {
+     "name": "officer"
+    },
+    {
+     "name": "protester"
+    },
+    {
+     "name": "arrest"
+    },
+    {
+     "name": "black"
+    }
+   ]
+  },
+  {
+   "name": "Economy and Stock Market",
+   "children": [
+    {
+     "name": "market"
+    },
+    {
+     "name": "stock"
+    },
+    {
+     "name": "oil"
+    },
+    {
+     "name": "investor"
+    },
+    {
+     "name": "price"
+    },
+    {
+     "name": "company"
+    },
+    {
+     "name": "economy"
+    },
+    {
+     "name": "sale"
+    },
+    {
+     "name": "quarter"
+    },
+    {
+     "name": "cut"
+    }
+   ]
+  },
+  {
+   "name": "Natural Disasters",
+   "children": [
+    {
+     "name": "hurricane"
+    },
+    {
+     "name": "wildfire"
+    },
+    {
+     "name": "rescue"
+    },
+    {
+     "name": "animals"
+    },
+    {
+     "name": "water"
+    },
+    {
+     "name": "storm"
+    },
+    {
+     "name": "crash"
+    },
+    {
+     "name": "kill"
+    },
+    {
+     "name": "florida"
+    },
+    {
+     "name": "irma"
+    }
+   ]
+  },
+  {
+   "name": "Big Tech Companies",
+   "children": [
+    {
+     "name": "law"
+    },
+    {
+     "name": "security"
+    },
+    {
+     "name": "federal"
+    },
+    {
+     "name": "administration"
+    },
+    {
+     "name": "government"
+    },
+    {
+     "name": "rule"
+    },
+    {
+     "name": "facebook"
+    },
+    {
+     "name": "google"
+    },
+    {
+     "name": "department"
+    },
+    {
+     "name": "leader"
+    }
+   ]
+  },
+  {
+   "name": "Sports and Entertainment",
+   "children": [
+    {
+     "name": "star"
+    },
+    {
+     "name": "game"
+    },
+    {
+     "name": "player"
+    },
+    {
+     "name": "nfl"
+    },
+    {
+     "name": "nba"
+    },
+    {
+     "name": "fan"
+    },
+    {
+     "name": "film"
+    },
+    {
+     "name": "google"
+    },
+    {
+     "name": "league"
+    },
+    {
+     "name": "football"
+    }
+   ]
+  },
+  {
+   "name": "International Affairs",
+   "children": [
+    {
+     "name": "south"
+    },
+    {
+     "name": "north"
+    },
+    {
+     "name": "korea"
+    },
+    {
+     "name": "prime"
+    },
+    {
+     "name": "minister"
+    },
+    {
+     "name": "boris"
+    },
+    {
+     "name": "johnson"
+    },
+    {
+     "name": "cruise"
+    },
+    {
+     "name": "department"
+    },
+    {
+     "name": "leader"
+    }
+   ]
+  }
+ ]
+}

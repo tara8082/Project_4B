@@ -1,5 +1,5 @@
 # Topic Modeling & Sentiment Analysis of News Headlines from Media Company's Twitter Accounts
-This project uses a Kaggle data and fits classification models that balances recall and precision metrics with an emphasis on model interpretability. The dataset includes trip specific data, passenger specific data, and survey data on various components of the air travel experience. The use case for these results is to empower airlines with information regarding passenger's expectations for the air travel experience. With these insights, airlines can triangulate what causes dissastisfaction, optimize the categories causing dissatisfaction, and predict whether a customer is dissatisfied without a customer participating in a post flight survey.
+This project uses a data scraped from Twitter to analyze headlines posted by news media outlets from 2016 to 2020. Once the data is preprocessed and an NLP pipeline is created, topic modeling is used to discover topics in the data with an emphasis on topic separability. The 2.5 million headlines are then analyzed using Vader sentiment analysis to measure sentiment (negative, positive, or neutral) over time.
 
 ## Data Source: 
 

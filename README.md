@@ -31,8 +31,8 @@ The best tool to meet this project's goal is CorEx. The topics discovered using 
 
 
 ## Outline of Files
-The ipynb files contain exploratory data analyatics and techniques used for model tuning and selection.
-The pickle file contains pickles of the final trained logistic regression model, the coeffiecients, and the scaler.(NOT HERE
-The CSV files contains the Kaggle data set (divided into train and test) and the cleaned dataframe.
-The airline_data.py files contains code for the interactive visualization on Streamlit.
-The pdf contains the final presentation.
+- The ipynb files contain exploratory data analysis, CorEx topic modeling, and Vader sentiment analysis.
+- The miscellaneous support file contains .py and .txt files for stop words.
+- The CSVs and pickled dataframes contained preprocessed healdines were too large to uploag to Github. I can provide them upon request.
+- The json file contains JS code to create a collapsible tree visualization.
+- The pdf contains the final presentation.

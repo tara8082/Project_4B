@@ -1,7 +1,9 @@
 # Topic Modeling Twitter Headlines
 This project uses a Kaggle data and fits classification models that balances recall and precision metrics with an emphasis on model interpretability. The dataset includes trip specific data, passenger specific data, and survey data on various components of the air travel experience. The use case for these results is to empower airlines with information regarding passenger's expectations for the air travel experience. With these insights, airlines can triangulate what causes dissastisfaction, optimize the categories causing dissatisfaction, and predict whether a customer is dissatisfied without a customer participating in a post flight survey.
 
-## Data Source: https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
+## Data Source: 
+
+Data was scraped from Twitter user accounts of Reuters, AP, BBC, Financial Times, NYTimes, CNN, FoxNews, Daily Mail, ABC, NBC, Wall Street Journal, Bloomberg from 2016-2020.
 
 ## Tools Used:
 
@@ -15,7 +17,7 @@ D3
 Vader Sentiment Analysis
 
 ## Conclusions
-The best tool to meet this project's goal is CorEx. The top 5 features that airline pasengers care about most are as follows:
+The best tool to meet this project's goal is CorEx. The that airline pasengers care about most are as follows:
 
 Inflight Wifi Service
 Type of Travel (Business/Personal)

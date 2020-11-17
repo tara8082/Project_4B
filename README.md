@@ -7,26 +7,22 @@ Data was scraped from Twitter user accounts of Reuters, AP, BBC, Financial Times
 
 ## Tools Used:
 
-Postgres
-Python 3
-SNScrape
-NLTK
-Spacy
-Corex
-D3
-Vader Sentiment Analysis
+- Postgres
+- Python 3
+- SNScrape
+- NLTK
+- Spacy
+- Corex
+- D3
+- Vader Sentiment Analysis
 
 ## Conclusions
 The best tool to meet this project's goal is CorEx. The that airline pasengers care about most are as follows:
 
-Inflight Wifi Service
-Type of Travel (Business/Personal)
-Check In Service
-Type of Customer (Loyal/Disloyal)
-Cleanliness
-Outline of Files
+
+## Outline of Files
 The ipynb files contain exploratory data analyatics and techniques used for model tuning and selection.
-The pickle file contains pickles of the final trained logistic regression model, the coeffiecients, and the scaler.
+The pickle file contains pickles of the final trained logistic regression model, the coeffiecients, and the scaler.(NOT HERE
 The CSV files contains the Kaggle data set (divided into train and test) and the cleaned dataframe.
 The airline_data.py files contains code for the interactive visualization on Streamlit.
 The pdf contains the final presentation.

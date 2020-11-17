@@ -17,7 +17,17 @@ Data was scraped from Twitter user accounts of Reuters, AP, BBC, Financial Times
 - Vader Sentiment Analysis
 
 ## Conclusions
-The best tool to meet this project's goal is CorEx. The that airline pasengers care about most are as follows:
+The best tool to meet this project's goal is CorEx. The topics discovered using CorEx were categorized into 8 topics:
+
+1. Natural Disasters
+2. Police & Crime
+3. Domestic Government Affairs
+4. International Affairs
+5. Economy & Stock Market
+6. Big Tech Companies
+7. Sports & Entertainment
+8. Coronavirus Pandemic
+
 
 
 ## Outline of Files
